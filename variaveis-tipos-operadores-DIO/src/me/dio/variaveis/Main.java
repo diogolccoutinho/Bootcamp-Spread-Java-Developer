@@ -2,6 +2,8 @@ package me.dio.variaveis;
 
 /**
  * Classe de exemplo para o exercício da Aula 1 de Variáveis, Tipos de Dado e Operadores aritméticos.
+ * Professor Tiago Leite
+ * As variáveis comentadas não estão nas boas práticas de programação java
  */
 
 public class Main {
